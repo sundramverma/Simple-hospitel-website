@@ -1,1 +1,1 @@
-# Simple-hospitel-website
+# Simple-hospital-website

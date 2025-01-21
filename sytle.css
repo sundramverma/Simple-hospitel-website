@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    color: rgb(235, 9, 9);
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-bottom: 50px;
+  
+    
+}
+.navbar a:hover{
+    text-decoration: none;
+    color: red;
+}
+.navbar a{
+    text-decoration: none;
+    color: rgb(16, 194, 238);
+}
+.nav-sty{
+    color: white;
+    background-color: black;
+}
+#logo{
+    width: 53px;
+    padding: 12px;
+    
+}
+#video{
+    height: 10%;
+    width: 100%;
+    
+}
+
+.main-div{
+    
+    background-image: url("https://img.freepik.com/premium-vector/hand-holding-medical-hospital-icon-symbol-vector_77417-324.jpg");
+    text-align: center;
+    width: 250px;
+    height: 450px;
+    border: 2PX solid black;
+    justify-content: space-between;
+
+    text-align: center;
+    margin: 50px;
+    margin-left: 50px;
+    display: block;
+    width: 234px;
+    padding: 8px;
+    border: 3px solid rgb(5, 250, 5);
+    border-radius: 17px;
+    font-size: 15PX;
+    left: 5px;
+}
+#btn{
+    border: 2px solid black;
+    width: 105px;
+    border-radius: 10px;
+    color: black;
+    background-color: skyblue;
+}
+.footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 75px;
+    
+}
